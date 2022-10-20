@@ -9,9 +9,5 @@
 - 👥 I'm open to new projects ideas and collaborations.
 - 🔥 I'm really passionate about what I do, and I love to work as a team.
 
-- 🏆 Former intern at Meta as a MU Software Engineer! 
-- 📖 I'm currently learning Svelte, GraphQl, Websockets, and a bunch of other technologies 🥴
-- 👥 I'm open to new projects ideas and collaborations.
-- 👀 Fun fact: I love graphic design and video editing! 📹
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DBarocio)](https://git.io/streak-stats)
