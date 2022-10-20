@@ -5,9 +5,9 @@
 
 # I am a junior Front end Developer looking to create awesome apps!
 
--📖 I'm currently learning Nextjs, prisma, trpc, and a bunch of other technologies 🥴
--👥 I'm open to new projects ideas and collaborations.
--🔥 I'm really passionate about what I do, and I love to work as a team.
+- 📖 I'm currently learning Nextjs, prisma, trpc, and a bunch of other technologies 🥴
+- 👥 I'm open to new projects ideas and collaborations.
+- 🔥 I'm really passionate about what I do, and I love to work as a team.
 
 - 🏆 Former intern at Meta as a MU Software Engineer! 
 - 📖 I'm currently learning Svelte, GraphQl, Websockets, and a bunch of other technologies 🥴
