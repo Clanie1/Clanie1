@@ -1,3 +1,3 @@
 # DBarocio
 
-[![trophy](https://github-profile-trophy.vercel.app/?=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/DBarocio=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
