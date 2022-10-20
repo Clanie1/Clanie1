@@ -5,8 +5,8 @@
 
 # I am a junior Front end Developer looking to create awesome apps!
 
-📖 I'm currently learning Nextjs, prisma, trpc, and a bunch of other technologies 🥴
-👥 I'm open to new projects ideas and collaborations.
-🔥 I'm really passionate about what I do, and I love to work as a team.
+-📖 I'm currently learning Nextjs, prisma, trpc, and a bunch of other technologies 🥴
+-👥 I'm open to new projects ideas and collaborations.
+-🔥 I'm really passionate about what I do, and I love to work as a team.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DBarocio)](https://git.io/streak-stats)
