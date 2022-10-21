@@ -1,6 +1,6 @@
 # Clanie1
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DBarocio&theme=nord&column=6&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Clanie1&theme=nord&column=6&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # I am a junior frontend developer looking to create awesome apps!
@@ -15,4 +15,4 @@
 <br/><br/>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DBarocio)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Clanie1)](https://git.io/streak-stats)
