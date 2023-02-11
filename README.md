@@ -3,7 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Clanie1&theme=nord&column=6&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-# I am a junior frontend developer looking to create awesome apps!
+# I am a junior fullstack developer looking to create awesome apps!
 
 - 📖 I'm currently learning Nextjs, prisma, trpc, and a bunch of other technologies 🥴
 - 👥 I'm open to new projects ideas and collaborations.
