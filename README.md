@@ -14,5 +14,6 @@
 <a href="https://www.facebook.com/daniel.barocio.16" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <br/><br/>
 
+[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Daniel%20Barocio/Fullstack%20Dev/Fullstack%20Dev/Bachelors%20Degree/dark/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FC4D03AQGIykPZM9bVUg%2Fprofile-displayphoto-shrink_800_800%2F0%2F1652808132644%3Fe%3D1682553600%26v%3Dbeta%26t%3Dv4Zty0PELjMxJ2pnCS3-r5Beywy_fVWa7oAQiFYkVL4)](https://www.linkedin.com/in/daniel-barocio-2746981a0/)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Clanie1)](https://git.io/streak-stats)
